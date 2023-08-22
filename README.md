@@ -1,7 +1,22 @@
 # Arduino Wooden Clock
 Arduino Wooden Clock
 
+**YOUTUBE VIDEO: XXXXXXXXX**
 
+
+Links from the video:
+
+- LED Matrix display: https://s.click.aliexpress.com/e/_DlnFAYz
+- WOKWI display documentation: https://docs.wokwi.com/parts/wokwi-max7219-matrix
+- U8g2 + Matrix display screenshot: https://github.com/olikraus/u8g2/wiki/gallery#28-may-2017-max7219-32x8-led-matrix
+- U8g2 fonts: https://github.com/olikraus/u8g2/wiki/fntlist8#7-pixel-height
+
+Related videos with similar dot matrix displays:
+- 51 years old display! - https://youtu.be/PBaL9w5w-2c
+- 1 DISPLAY 3 SENSORS - https://youtu.be/lj_7UmM0EPY
+- DIY Battery Indicator - https://youtu.be/Mq0WBPKGRew
+- Smooth Arduino 16x2 Gauge - https://youtu.be/cx9CoGqpsfg
+- Arduino Gauge in 11 Minutes - https://youtu.be/upE17NHrdPc
 
 
 ![THUMB_arduino_wooden_clock2](https://github.com/upiir/arduino_wood_clock/assets/117754156/5c94fd38-e6c1-4e57-bf8d-3e0074903d0f)
