@@ -1,7 +1,8 @@
 # Arduino Wooden Clock
 Arduino Wooden Clock
 
-**YOUTUBE VIDEO: XXXXXXXXX**
+**YOUTUBE VIDEO: https://youtu.be/50bVXHYW_9Q**
+**WOKWI Sketch: XXXXXXXXXXXXXXXXXXXXXXXXXX**
 
 
 Links from the video:
