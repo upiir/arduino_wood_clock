@@ -24,6 +24,14 @@ Related videos with similar dot matrix displays:
 
 
 
+Small animation:
+
+![arduino_wood_clock](https://github.com/upiir/arduino_wood_clock/assets/117754156/e0353840-bda2-46eb-b6e7-d25f697476d8)
+
+
+
+
+
 Screenshots from the video:
 
 
