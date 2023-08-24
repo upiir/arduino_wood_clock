@@ -3,7 +3,7 @@ Arduino Wooden Clock
 
 **YOUTUBE VIDEO: https://youtu.be/50bVXHYW_9Q**
 
-**WOKWI Sketch: XXXXXXXXXXXXXXXXXXXXXXXXXX**
+**WOKWI Sketch: https://wokwi.com/projects/373948370227404801**
 
 
 Links from the video:
