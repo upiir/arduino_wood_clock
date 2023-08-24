@@ -7,13 +7,20 @@ Arduino Wooden Clock
 
 
 Links from the video:
-
+- Atezr laser cutter for enclosure: https://atezr.com/pages/genesis-engrave-l2-laser-engraver
+- Laser fixing pins: https://s.click.aliexpress.com/e/_DDydZoJ
+- Honeycomb table: https://s.click.aliexpress.com/e/_DBxuFw7
+- Wood veneer yellow: https://s.click.aliexpress.com/e/_Dl2y0WP
+- Wood veneer red: https://s.click.aliexpress.com/e/_Dkl2Wwn
+- Wood veneer brown: https://s.click.aliexpress.com/e/_DeqjsZN
 - LED Matrix display: https://s.click.aliexpress.com/e/_DlnFAYz
 - WOKWI display documentation: https://docs.wokwi.com/parts/wokwi-max7219-matrix
 - U8g2 + Matrix display screenshot: https://github.com/olikraus/u8g2/wiki/gallery#28-may-2017-max7219-32x8-led-matrix
 - U8g2 fonts: https://github.com/olikraus/u8g2/wiki/fntlist8#7-pixel-height
 
 Related videos with similar dot matrix displays:
+- Why are pixels square? - https://youtu.be/oLgUtjyKO6Q
+- Arduino + Matrix Display - https://youtu.be/jlhcDzS17vU
 - 51 years old display! - https://youtu.be/PBaL9w5w-2c
 - 1 DISPLAY 3 SENSORS - https://youtu.be/lj_7UmM0EPY
 - DIY Battery Indicator - https://youtu.be/Mq0WBPKGRew
