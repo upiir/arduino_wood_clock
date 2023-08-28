@@ -7,7 +7,7 @@ Arduino Wooden Clock
 
 
 Links from the video:
-- Atezr laser cutter for enclosure: https://atezr.com/pages/genesis-engrave-l2-laser-engraver
+- Atezr laser cutter for enclosure: [https://atezr.com/pages/genesis-engrave-l2-laser-engraver](https://atezr.com/products/atezr-l2-36w-laser-engraver?referral_code=E3BQ5E11DUVF&slt=sales_plugin_af&source_type=sales_plugin_af&utm_source=SI&utm_medium=Affiliate&utm_campaign=upir)
 - Laser fixing pins: https://s.click.aliexpress.com/e/_DDydZoJ
 - Honeycomb table: https://s.click.aliexpress.com/e/_DBxuFw7
 - Wood veneer yellow: https://s.click.aliexpress.com/e/_Dl2y0WP
